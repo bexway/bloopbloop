@@ -1,0 +1,23 @@
+{
+  "name": "bloopbloop",
+  "version": "1.0.0",
+  "description": "POC to re-learn socket",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bexway/bloopbloop.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bexway/bloopbloop/issues"
+  },
+  "homepage": "https://github.com/bexway/bloopbloop#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "express-handlebars": "^3.0.0"
+  }
+}
